@@ -50,7 +50,6 @@
 - `LOCK` prefix for x86_64
 - `cpmxchg`
 - **demo**: `sync_fetch_and_add()`
-- **demo**: spinlock
 
 ## 6. Using Synchronization
 
